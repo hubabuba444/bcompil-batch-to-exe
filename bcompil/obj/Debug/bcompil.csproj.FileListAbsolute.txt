@@ -1,0 +1,7 @@
+C:\Users\czajk\source\repos\bcompil\bcompil\obj\Debug\bcompil.csproj.AssemblyReference.cache
+C:\Users\czajk\source\repos\bcompil\bcompil\obj\Debug\bcompil.csproj.CoreCompileInputs.cache
+C:\Users\czajk\source\repos\bcompil\bcompil\bin\Debug\bcompil.exe.config
+C:\Users\czajk\source\repos\bcompil\bcompil\bin\Debug\bcompil.exe
+C:\Users\czajk\source\repos\bcompil\bcompil\bin\Debug\bcompil.pdb
+C:\Users\czajk\source\repos\bcompil\bcompil\obj\Debug\bcompil.exe
+C:\Users\czajk\source\repos\bcompil\bcompil\obj\Debug\bcompil.pdb
